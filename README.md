@@ -1,7 +1,7 @@
 # Bolt_CMS_3.7.0-Auth_RCE
 Bolt CMS 3.7.0 - Authenticated Remote Code Execution - Enhanced version
 
-+ Original from the user: r3m0t3nu11 (repo)[https://github.com/r3m0t3nu11/Boltcms-Auth-rce-py]
++ Original from the user: r3m0t3nu11 [repo](https://github.com/r3m0t3nu11/Boltcms-Auth-rce-py)
 + Enhanced by: blu3ming
 
 **Usage: python bolt_rce.py username password**
